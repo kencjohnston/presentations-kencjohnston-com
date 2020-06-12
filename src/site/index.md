@@ -9,10 +9,10 @@ layout: layouts/base.njk
 - [VIDEO: Automation + Artisanship: The Future of Runbooks (Vimeo)](https://vimeo.com/341144765)
 
 ## Slides
-- [SLIDES: Automation + Artisanship: The Future of Runbooks (pdf)](/Automation+Artisanship/SLIDES-Automation+Artisanship.pdf)
+- [SLIDES: Automation + Artisanship: The Future of Runbooks (pdf)](/files/AA/SLIDES-Automation+Artisanship.pdf)
 
 ## Notes
-- [NOTES: Automation + Artisanship: The Future of Runbooks (pdf)](/Automation+Artisanship/NOTES-Automation+Artisanship.pdf)
+- [NOTES: Automation + Artisanship: The Future of Runbooks (pdf)](/files/AA/NOTES-Automation+Artisanship.pdf)
 
 ## Discussion Issues
 - [DISCUSSION: Automation + Artisanship](https://gitlab.com/kencjohnston/presentations/issues/1)
