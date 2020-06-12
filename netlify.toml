@@ -18,6 +18,6 @@ package = "netlify-deployment-hours-plugin"
 
   [plugins.inputs]
   # A cron-like expression that expresses when a deployment can occur
-  expression = "* * * * *"
+  expression = "* * * * 1-5"
   # tz database value that expresses the timezone of the expression
   timezone = "America/Chicago"
