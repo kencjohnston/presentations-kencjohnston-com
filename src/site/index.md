@@ -5,19 +5,19 @@ layout: layouts/base.njk
 
 # Quick Links
 
-### Videos
+## Videos
 - [VIDEO: Automation + Artisanship: The Future of Runbooks (Vimeo)](https://vimeo.com/341144765)
 
-### Slides
+## Slides
 - [SLIDES: Automation + Artisanship: The Future of Runbooks (pdf)](/Automation+Artisanship/SLIDES-Automation+Artisanship.pdf)
 
-### Notes
+## Notes
 - [NOTES: Automation + Artisanship: The Future of Runbooks (pdf)](/Automation+Artisanship/NOTES-Automation+Artisanship.pdf)
 
-### Discussion Issues
+## Discussion Issues
 - [DISCUSSION: Automation + Artisanship](https://gitlab.com/kencjohnston/presentations/issues/1)
 
 # Presentation Folders
-These are links to folders in this repository for presentations ordered by most recently presented
+These are direct links to the repository folders for presentations ordered by most recently presented
 
-- [Automation + Artisanship: The Future of Runbooks](/Automation+Artisanship)
+- [Automation + Artisanship: The Future of Runbooks](https://gitlab.com/kencjohnston/presentations-kencjohnston-com/-/tree/master/src/Automation%2BArtisanship)
