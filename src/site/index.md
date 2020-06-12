@@ -20,4 +20,4 @@ layout: layouts/base.njk
 # Presentation Folders
 These are direct links to the repository folders for presentations ordered by most recently presented
 
-- [Automation + Artisanship: The Future of Runbooks](https://gitlab.com/kencjohnston/presentations-kencjohnston-com/-/tree/master/src/site/Automation%2BArtisanship)
+- [Automation + Artisanship: The Future of Runbooks](https://gitlab.com/kencjohnston/presentations-kencjohnston-com/-/tree/master/src/site/files/AA)
