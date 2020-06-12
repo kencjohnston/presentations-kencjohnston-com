@@ -1,10 +1,7 @@
 ---
-title: KenCJohnston's Presentations
-subtitle: A site containing presentation content from KenCJohnston
+title: Presentations
 layout: layouts/base.njk
 ---
-
-
 
 # Quick Links
 
